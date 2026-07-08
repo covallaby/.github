@@ -2,6 +2,12 @@
   <img src="brand/readme-header.png" alt="You write code. We cover it. — Covallaby generates beautiful coverage reports for your pull requests." width="820">
 </p>
 
+<p align="center">
+  <a href="https://covallaby.com"><b>covallaby.com</b></a> &nbsp;·&nbsp;
+  <a href="https://covallaby.com/demo/">Live demo</a> &nbsp;·&nbsp;
+  <a href="https://github.com/covallaby/action">Get the Action</a>
+</p>
+
 ## 🦘 Beautiful coverage reports for your pull requests
 
 No account. No upload token. No dashboard you didn't ask for. One workflow
