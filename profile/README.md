@@ -45,4 +45,4 @@ Read https://raw.githubusercontent.com/covallaby/action/main/llms-install.md and
 
 ---
 
-<sub>Friendly, never shaming. Open source, MIT. 🌿 You're covered.</sub>
+<sub>Created by <a href="https://mostlygood.dev">Josh Holtz · Mostly Good LLC</a> · Friendly, never shaming. Open source. 🌿 You're covered.</sub>
